@@ -17,7 +17,7 @@
                     + $(this).text()
                     + "</a></dt>");
 
-            var children = $(this).nextUntil("h2", "h3")
+            var children = $(this).nextUntil("h2", "h3");
 
             children.each(function( index ) {
                 $(".post-directory dl").append("<dd><a class=\"jumper\" hre=#" +
@@ -26,6 +26,9 @@
                         + "&nbsp;&nbsp;- " + $(this).text()
                         + "</a></dd>");
             });
+            /*edit by zhangyulong at:2017年2月22日17:42:13*/
+            var content_height = window.innerHeight - 120 ;
+            $(".post-directory")[0].style.height = content_height + "px";
         });
 
         var fixmeTop = $('#post-directory-module').offset().top - 100;       // get initial position of the element

@@ -7,14 +7,14 @@
 
 # Site settings
 
-title: 张玉龙的博客
+title: 张玉龙的GitHub博客
 name: 张玉龙
 email: admin@iwenli.org
 location: 北京，中国
 company: 自由职业者
 company_url: http://iwenli.org
 github_url: https://github.com/iwenli
-description: 张玉龙的博客
+description: 张玉龙的GitHub博客
 favicon: favicon.png # Image must be in assets/images
 repository: iwenli/iwenli.github.io
 encoding: utf-8
