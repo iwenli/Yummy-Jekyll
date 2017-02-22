@@ -9,7 +9,7 @@ subtitle:   <h3>下载简历</h3>
                 <span class="flag-icon flag-icon-gb"></span> English
             </a>        
 css: ['about.css', 'sidebar-popular-repo.css', '../../bower_components/flag-icon-css/css/flag-icon.min.css']
-pattern: About
+pattern: About Me
 ---
 
 {% include about.html %}
