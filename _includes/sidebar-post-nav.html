@@ -28,7 +28,9 @@
             });
             /*edit by zhangyulong at:2017年2月22日17:42:13*/
             var content_height = window.innerHeight - 120 ;
-            $(".post-directory")[0].style.height = content_height + "px";
+            var max_height = "max-height:" + content_height + "px;";
+            $(".post-directory").attr("style",max_height)
+            //$(".post-directory")[0].style.height = content_height + "px";
         });
 
         var fixmeTop = $('#post-directory-module').offset().top - 100;       // get initial position of the element
