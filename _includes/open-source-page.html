@@ -1,11 +1,20 @@
 {% assign sorted_repos = (site.github.public_repositories | sort: 'stargazers_count') | reverse | where: "fork", "false" %}
 <div id="container-open-source">
+<<<<<<< HEAD
     <section class="jumbotron geopattern" data-pattern-id="{{ page.pattern }}">
         <div class="container">
             <div id="jumbotron-meta-info">
                 <h1>开源项目</h1>
                 <span class="meta-info">
                     我在Github上拥有 <span class="repo-count badge">{{ sorted_repos.size }}</span> 个项目
+=======
+    <section class="jumbotron geopattern" data-pattern-id="{{ page.title }}">
+        <div class="container">
+            <div id="jumbotron-meta-info">
+                <h1>Open Source Projects</h1>
+                <span class="meta-info">
+                    I have <span class="repo-count badge">{{ sorted_repos.size }}</span> projects on Github
+>>>>>>> 5b15e9df575df802766046b31a03e3b2d3a24cef
                 </span>
             </div>
         </div>

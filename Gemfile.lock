@@ -46,6 +46,10 @@ GEM
     faraday (0.9.2)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.10)
+<<<<<<< HEAD
+=======
+    ffi (1.9.10-x64-mingw32)
+>>>>>>> 5b15e9df575df802766046b31a03e3b2d3a24cef
     geo_pattern (1.2.1)
       color (~> 1.5)
     globalid (0.3.6)
@@ -90,6 +94,11 @@ GEM
     multipart-post (2.0.0)
     nokogiri (1.6.7)
       mini_portile2 (~> 2.0.0.rc2)
+<<<<<<< HEAD
+=======
+    nokogiri (1.6.7-x64-mingw32)
+      mini_portile2 (~> 2.0.0.rc2)
+>>>>>>> 5b15e9df575df802766046b31a03e3b2d3a24cef
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
     protobuf (3.6.7)
@@ -151,6 +160,10 @@ GEM
 
 PLATFORMS
   ruby
+<<<<<<< HEAD
+=======
+  x64-mingw32
+>>>>>>> 5b15e9df575df802766046b31a03e3b2d3a24cef
 
 DEPENDENCIES
   jekyll-geo-pattern
@@ -160,4 +173,8 @@ DEPENDENCIES
   rough
 
 BUNDLED WITH
+<<<<<<< HEAD
    1.11.1
+=======
+   1.12.4
+>>>>>>> 5b15e9df575df802766046b31a03e3b2d3a24cef

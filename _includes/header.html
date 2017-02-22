@@ -6,7 +6,11 @@
         <nav class="site-header-nav" role="navigation">
             {% for nav in site.navs %}
             <a href="{{ nav.href }}"
+<<<<<<< HEAD
                class="{% if page.pattern == nav.pattern %}selected{% endif %} site-header-nav-item hvr-underline-from-center"
+=======
+               class="{% if page.menu == nav.label %} selected {% endif %} site-header-nav-item hvr-underline-from-center"
+>>>>>>> 5b15e9df575df802766046b31a03e3b2d3a24cef
                target="{{ nav.target | default: _self }}"
                title="{{ nav.label }}">
                 {{ nav.label }}

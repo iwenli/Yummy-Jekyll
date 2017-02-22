@@ -10,11 +10,19 @@
 }
 
 .site-header .site-header-nav-item {
+<<<<<<< HEAD
     color: #fff;
 }
 
 .site-header a:hover {
     color: #9acfea;
+=======
+    color: #9acfea;
+}
+
+.site-header a:hover {
+    color: #fff;
+>>>>>>> 5b15e9df575df802766046b31a03e3b2d3a24cef
 }
 
 .jumbotron {
