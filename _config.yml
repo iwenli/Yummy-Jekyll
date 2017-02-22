@@ -6,6 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
+
 title: 张玉龙的博客
 name: 张玉龙
 email: admin@iwenli.org
@@ -57,7 +58,7 @@ navs:
     pattern: Open Source Projects
 
   -
-    href: /blog
+    href: /blog-cn
     label: 博客
     pattern: All My Blogs
 
