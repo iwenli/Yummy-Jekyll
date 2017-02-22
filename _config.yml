@@ -84,6 +84,6 @@ analytics :
     tracking_id : 'UA-92426808-1'
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [C#, .Net, C, MySQL, SQLite, Node.js, Design Patterns]
-skill_web_keywords: [HTML, CSS, JavaScript, JQuery, Ajax, ASP.NET]
+skill_software_keywords: [C#,.Net, C, MySQL, SQLite, Design Patterns, Python]
+skill_web_keywords: [HTML5, CSS3, JavaScript, JQuery, Ajax, NodeJS, ASP.NET, Boostrap]
 skill_mobile_app_keywords: [Android]
