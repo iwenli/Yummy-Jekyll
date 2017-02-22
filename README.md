@@ -1,3 +1,3 @@
 #张玉龙的GitHub-Blog
 
-blog.iwenli.org
+http://blog.iwenli.org
