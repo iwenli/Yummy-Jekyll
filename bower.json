@@ -1,0 +1,45 @@
+{
+<<<<<<< HEAD
+  "name": "张玉龙的博客",
+  "description": "张玉龙的博客",
+=======
+  "name": "Yummy-Jekyll",
+  "description": "Jekyll Theme",
+>>>>>>> 5b15e9df575df802766046b31a03e3b2d3a24cef
+  "main": "",
+  "keywords": [
+    "jekyll"
+  ],
+  "authors": [
+<<<<<<< HEAD
+    "张玉龙"
+  ],
+  "license": "MIT",
+  "homepage": "blog.iwenli.org",
+=======
+    "DONG Chuan"
+  ],
+  "license": "MIT",
+  "homepage": "",
+>>>>>>> 5b15e9df575df802766046b31a03e3b2d3a24cef
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+<<<<<<< HEAD
+=======
+    "jquery": "^3.1.0",
+>>>>>>> 5b15e9df575df802766046b31a03e3b2d3a24cef
+    "bootstrap": "^3.3.6",
+    "octicons": "^3.5.0",
+    "hover": "^2.0.2",
+    "geopattern": "^1.2.3",
+    "underscore": "^1.8.3",
+    "primer-markdown": "^2.5.1",
+    "flag-icon-css": "^2.3.1"
+  }
+}
