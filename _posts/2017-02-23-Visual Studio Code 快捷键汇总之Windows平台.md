@@ -189,7 +189,7 @@ GitHub：[https://github.com/iwenli](https://github.com/iwenli)
 |Ctrl + Shift + C|打开新的命令提示符|`workbench.action.terminal.openNativeConsole`|
 |Ctrl + Shift + V|切换减价预览|`markdown.showPreview`|
 |Ctrl + K V|打开预览|`markdown.showPreviewToSide`|
-|Ctrl + `|集成终端切换|`workbench.action.terminal.toggleTerminal`|
+|Ctrl + \`|集成终端切换|`workbench.action.terminal.toggleTerminal`|
 
 
 ## 2.7.首选项
@@ -238,3 +238,7 @@ GitHub：[https://github.com/iwenli](https://github.com/iwenli)
 |未赋值|受欢迎的扩展|`workbench.extensions.action.showPopularExtensions`|
 |未赋值|更新所有的扩展|`workbench.extensions.action.updateAllExtensions`|
 
+
+# 3.尾页
+
+>之前一直都是用visualstudio做开发的，最近用了vsc感觉很棒，所以来研究一下，如果有错误的地方，大家下发评论指正，我也会第一时间更正哈。
